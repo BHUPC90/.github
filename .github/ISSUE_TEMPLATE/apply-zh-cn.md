@@ -1,5 +1,5 @@
 ---
-name: 申请入学
+name: 申请
 about: 申请加入BHUPC
 title: '申请'
 labels: application
